@@ -4,6 +4,8 @@ An early HTML portfolio exercise using sections, links, a skills table and a con
 
 [Live demo](https://marvericklnk.github.io/html-portfolio-checkpoint2/)
 
+![Project screenshot](screenshots/preview.jpg)
+
 ## Run locally
 
 Download the code and open `index.html` in your browser. You can also open the folder in VS Code and use Live Server.
